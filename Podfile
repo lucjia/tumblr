@@ -6,7 +6,7 @@ target 'tumblr' do
   # use_frameworks!
 
   # Pods for tumblr
-  pod 'AFNetowrking'
+  pod 'AFNetworking'
 
   target 'tumblrTests' do
     inherit! :search_paths
